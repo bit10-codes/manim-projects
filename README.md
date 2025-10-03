@@ -1,7 +1,7 @@
 # manim-journey-begins
 Starting my manim journey(github journey as well) by plotting the motion of the two masses in coupled oscillator system.
 
-> The video above shows a coupled oscillator beat animation generated with Manim.
+> The programme shows a coupled oscillator beat animation generated with Manim.
 
 ---
 
